@@ -1,1 +1,3 @@
-# OIBSIP-Level-1-Task-2
+# Personal Portfolio Website
+
+Created a portfolio website using HTML, CSS and JavaScript
